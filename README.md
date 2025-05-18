@@ -1,8 +1,12 @@
 # 📌 About Me
 
-🇫🇮 Finland  
-  
-💻 Tech stack:  
+🇫🇮 **Based in Finland**  
+🎯 Passionate about software development, problem-solving, and continuous learning.
+
+---
+
+## 💻 Tech Stack
+
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,11 +15,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## 🌐 Connect with Me
 
-🌐 Socials:   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-turunen-12246a208/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-turunen-12246a208/)  
+📁 [**Portfolio Website**](https://junior-dev.pages.dev/) – Explore my projects, experience, and more!
 
+---
 
 <!---
 Jumppuu/Jumppuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
