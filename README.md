@@ -14,6 +14,21 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🔧 Current Focus
+
+Expanding my expertise in:
+
+- **Containerized Applications** - Building scalable services with Docker
+- **AI & Language Processing** - Working with NLP models and techniques
+- **Retrieval Augmented Generation (RAG)** - Enhancing AI systems with contextual information retrieval
+- **Database Systems** - Leveraging PostgreSQL for structured data and Redis for caching
+- **Microservices Architecture** - Developing resilient, distributed applications
 
 ---
 
