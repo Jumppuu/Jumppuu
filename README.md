@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=435&lines=Software+Developer;Gamer" alt="Typing SVG" />
 </div>
 
-🇫🇮 **Based in Finland**  
+🇫🇮  **Based in Finland**  
 🚀 Exploring the intersection of technology, gaming, and creative problem-solving.
 
 ---
