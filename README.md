@@ -5,7 +5,7 @@
 </div>
 
 🇫🇮 **Based in Finland**  
-🎯 Building robust software solutions with a passion for clean, efficient code.
+🚀 Exploring the intersection of technology, gaming, and creative problem-solving.
 
 ---
 
