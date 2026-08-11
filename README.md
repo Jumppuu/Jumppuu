@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-%2301A9DB.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
@@ -43,66 +42,55 @@
 ### **AI / Machine Learning**
 - RAG pipelines (Retrieval-Augmented Generation)  
 - LLM integration (context-aware memory, NPC logic, inference)  
-- Backend logic for AI-driven features  
+- Text embeddings & semantic search (pgvector, 384-dim multilingual)  
 - Prompt engineering & structured conversational design  
 - **Using AI tools throughout the development lifecycle** (planning, refactoring, debugging, documentation)
 
 ---
 
-### **Architecture & Infrastructure**
-- Service-based backend architecture  
-- Multi-service setups with Docker & Docker Compose  
-- Persistent containerized environments (PostgreSQL + Redis)  
-- Scalable backend design & clean separation of concerns  
-
----
-
-### **DevOps & Tools**
+### **DevOps & Cloud**
 <p>
+  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-**Workflow Enhancements**
+**Workflow**
+- Azure Container Apps, Container Registry, PostgreSQL, Redis  
+- CI/CD pipelines with GitHub Actions & Docker Buildx  
+- Zero-downtime rolling deployments  
 - AI-assisted development (LLM-powered planning, debugging & refactoring)  
-- Strong version control practices  
-- Automated formatting / linting habits  
 
 ---
 
 ## 🚀 Current Focus
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 0 0 48%; min-width: 250px;">
-    <h3>🐳 Containerized Backend Systems</h3>
-    <p>Building multi-service backends using Docker Compose with PostgreSQL and Redis, including health checks, persistence and modular isolation.</p>
-  </div>
-  <div style="flex: 0 0 48%; min-width: 250px;">
-    <h3>🧠 AI & LLM Integration</h3>
-    <p>Implementing RAG pipelines, developing AI-driven system logic, and leveraging LLMs to improve both product features and my own development workflow.</p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 20px;">
-  <div style="flex: 0 0 48%; min-width: 250px;">
-    <h3>🔌 API Development</h3>
-    <p>Designing clean, scalable APIs with Python + FastAPI, using dependency injection and real-time communication patterns.</p>
-  </div>
-  <div style="flex: 0 0 48%; min-width: 250px;">
-    <h3>🌐 Web & System Architecture</h3>
-    <p>Structured backend architecture that integrates with modern frontends, AI logic, and event-driven communication.</p>
-  </div>
-</div>
+| | |
+|---|---|
+| **🐳 Containerized Backend Systems** | **🧠 AI & LLM Integration** |
+| Building multi-service backends using Docker & Azure with PostgreSQL and Redis, including health checks, persistence and modular isolation. | Implementing RAG pipelines, developing AI-driven system logic, and leveraging LLMs to improve both product features and my development workflow. |
+| **🔌 API Development** | **🌐 Web & System Architecture** |
+| Designing clean, scalable APIs with Python + FastAPI, using dependency injection and real-time communication patterns. | Structured backend architecture that integrates with modern frontends, AI logic, and event-driven communication. |
 
 ---
 
 ## 📂 Selected Projects
 
-- 🧙 **Larpmaster** — C# Windows Forms remake of a classic Amiga LARP character creator  
-- 🤖 **Excuse Generator** — AI-powered excuse generator REST API  
-- 🖥️ **Portfolio Website** — Animated, responsive dark-themed developer portfolio  
+- 🤖 **AI Embedding Service** — Production microservice for 384-dim multilingual text embeddings powering semantic NPC memory in a Unity game platform. Deployed on Azure Container Apps with full CI/CD. **85% latency reduction** over in-process approach. *(Python · FastAPI · Azure · pgvector)*
+- 🌸 **[Fallow Perfume](https://www.fallowperfume.com/)** — Client website with a live real-time review system built on WebSockets. *(HTML · CSS · JavaScript · WebSockets)*
+- 🧙 **[Larpmaster](https://github.com/Jumppuu/Larpmaster)** — C# WinForms remake of a classic Amiga LARP character creator, delivered for a real client. *(C# · .NET)*
+- 🤖 **[Excuse Generator](https://www.youtube.com/watch?v=kn19_iBVCeA)** — AI-powered excuse generator, team project. *(C# · JavaScript · SQLite)*
+- 🖥️ **[Portfolio](https://junior-dev.pages.dev)** — Animated, responsive dark-themed developer portfolio. *(HTML · CSS · JavaScript · Vanta.js)*
+
+---
+
+## 🎓 Education
+
+- **ICT Engineering (Bachelor's)** — Tampere University of Applied Sciences (TAMK), 2026–present  
+- **Software Developer (Vocational)** — Sasky Tampere Vocational College, 2024–2025  
 
 ---
 
@@ -124,8 +112,6 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
----
 
 <!---
 Jumppuu/Jumppuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
